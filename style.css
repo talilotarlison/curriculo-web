@@ -7,7 +7,7 @@ h1,h2 {
 	font-family: Georgia;
 }
 
-h1 {
+h1 { text-align: center;
 	border-bottom: 3px solid #aaa;
 	background-color: #3b3b3b;
 	color: #ddd;
@@ -26,6 +26,7 @@ h2 {
 .secao {
 	background-color: #eee;
 	padding-left: 15px;
+	text-align: center;
 }
 
 label {
@@ -54,6 +55,7 @@ a:hover {
 
 #menu {
 	margin: 0;
+	text-align: center;
 }
 
 #menu ul, #menu li {
@@ -76,8 +78,9 @@ a:hover {
 }
 
 .photo {
-	float: right;
-	margin-right: 20%;
+	float: center ;
+	margin-right: 0%;
+	
 }
 
 #footnote {
