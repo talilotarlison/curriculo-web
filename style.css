@@ -1,10 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300&display=swap');
+
 body {
-	font: 14px ROboto, Verdana, sans-serif;
+	font-family: 'Red Hat Mono', monospace;
 	color: #3b3b3b;
 }
 
 h1,h2 {
-	font-family: Georgia;
+	font-family: 'Red Hat Mono', monospace;
 }
 
 h1 { text-align: center;
@@ -86,7 +89,7 @@ a:hover {
 #footnote {
 	border-top: 1px dashed #aaa;
 	padding: 5px;
-	font: 75% "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	font: 75% "'Red Hat Mono', monospace;"
 	
 }
 
