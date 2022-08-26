@@ -12,8 +12,8 @@
 </div>
 
 
-# curriculo-web
+### curriculo-web
 
-## 🏷️ detalhes do projeto
+### 🏷️ detalhes do projeto
 
-## Meu currículo feito em html e css, com minha informações , o currículo conta com duas páginas uma mais completa e outra com as informações mais resumidas.
+### Meu currículo feito em html e css, com minha informações , o currículo conta com duas páginas uma mais completa e outra com as informações mais resumidas.
