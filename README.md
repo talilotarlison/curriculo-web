@@ -13,6 +13,10 @@
 
 
 ### curriculo-web
+## Tecnologias
+- HTML
+- CSS
+
 
 ### 🏷️ detalhes do projeto
 
